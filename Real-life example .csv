@@ -1,0 +1,16 @@
+Brand,Price,Body,Mileage,EngineV,Engine Type,Registration,Year,Model
+Volkswagen,15000,sedan,120,2.0,Diesel,yes,2010,Passat
+BMW,20000,SUV,85,3.0,Petrol,no,2015,X5
+Mercedes,30000,coupe,95,2.5,Petrol,yes,2020,C-Class
+Toyota,25000,hatchback,100,1.8,Hybrid,yes,2018,Corolla
+Honda,18000,sedan,110,2.2,Diesel,no,2012,Civic
+Audi,22000,sedan,105,2.0,Petrol,yes,2016,A4
+Ford,17000,hatchback,130,1.6,Diesel,no,2014,Focus
+Chevrolet,19000,SUV,90,2.4,Petrol,yes,2017,Equinox
+Hyundai,16000,hatchback,140,1.8,Petrol,no,2013,Elantra
+Nissan,23000,SUV,80,2.0,Diesel,yes,2019,Rogue
+Kia,15000,sedan,125,1.6,Hybrid,yes,2015,Optima
+Volvo,28000,station,95,2.0,Diesel,no,2021,V60
+Subaru,21000,SUV,110,2.5,Petrol,yes,2018,Forester
+Mazda,20000,sedan,115,2.2,Diesel,no,2016,Mazda6
+Jeep,35000,SUV,85,3.2,Petrol,yes,2022,Cherokee
